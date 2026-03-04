@@ -8,3 +8,5 @@ Exploring Base ecosystem docs
 Onchain mindset building
 ## 2026-03-05 #5
 5/50 – steady grind
+## 2026-03-05 #6
+Base is L2 king
