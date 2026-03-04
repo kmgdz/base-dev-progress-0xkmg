@@ -10,3 +10,5 @@ Onchain mindset building
 5/50 – steady grind
 ## 2026-03-05 #6
 Base is L2 king
+## 2026-03-05 #8
+Smart contract ideas incoming
