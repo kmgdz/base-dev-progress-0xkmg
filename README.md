@@ -12,3 +12,5 @@ Onchain mindset building
 Base is L2 king
 ## 2026-03-05 #8
 Smart contract ideas incoming
+## 2026-03-05 #9
+0xKMG building in public
