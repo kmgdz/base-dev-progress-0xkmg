@@ -28,3 +28,5 @@ Onchain ideas flowing
 15/50 – steady progress
 ## 2026-03-05 #17
 Reading more Base docs
+## 2026-03-05 #18
+Dev mode: focused
