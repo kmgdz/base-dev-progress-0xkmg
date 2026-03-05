@@ -21,3 +21,5 @@ Smart contract ideas incoming
 Halfway to 20 – locked in
 ## 2026-03-05 #12
 Building momentum
+## 2026-03-05 #13
+Base ecosystem deep dive
