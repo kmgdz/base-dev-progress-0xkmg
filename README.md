@@ -16,7 +16,6 @@ Smart contract ideas incoming
 0xKMG building in public
 ## 2026-03-05 #10
 10% done – goat mode
-
 ## 2026-03-05 #11
 Halfway to 20 – locked in
 ## 2026-03-05 #12
@@ -27,3 +26,5 @@ Base ecosystem deep dive
 Onchain ideas flowing
 ## 2026-03-05 #15
 15/50 – steady progress
+## 2026-03-05 #17
+Reading more Base docs
