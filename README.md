@@ -36,3 +36,5 @@ Dev mode: focused
 20/50 – halfway mark 🟦
 ## 2026-03-06 #21
 Base chain gas efficiency notes
+## 2026-03-06 #22
+Exploring Base Builder Grants
