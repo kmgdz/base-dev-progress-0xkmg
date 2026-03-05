@@ -38,3 +38,5 @@ Dev mode: focused
 Base chain gas efficiency notes
 ## 2026-03-06 #22
 Exploring Base Builder Grants
+## 2026-03-06 #23
+Onchain identity ideas (ENS + Base)
