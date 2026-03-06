@@ -52,3 +52,5 @@ Optimism vs Base L2 comparison
 Smart contract security checklist
 ## 2026-03-06 #28
 Base testnet deployment thoughts
+## 2026-03-06 #29
+0xKMG Base builder roadmap draft
