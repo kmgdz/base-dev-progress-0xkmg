@@ -48,3 +48,5 @@ Solidity best practices refresh
 25/50 – Base dev consistency building
 ## 2026-03-06 #26
 Optimism vs Base L2 comparison
+## 2026-03-06 #27
+Smart contract security checklist
