@@ -46,3 +46,5 @@ Onchain identity ideas (ENS + Base)
 Solidity best practices refresh
 ## 2026-03-06 #25
 25/50 – Base dev consistency building
+## 2026-03-06 #26
+Optimism vs Base L2 comparison
