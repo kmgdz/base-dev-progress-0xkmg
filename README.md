@@ -40,3 +40,5 @@ Base chain gas efficiency notes
 Exploring Base Builder Grants
 ## 2026-03-06 #23
 Onchain identity ideas (ENS + Base)
+## 2026-03-06 #23
+Onchain identity ideas (ENS + Base)
