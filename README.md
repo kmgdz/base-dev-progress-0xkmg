@@ -44,3 +44,5 @@ Onchain identity ideas (ENS + Base)
 Onchain identity ideas (ENS + Base)
 ## 2026-03-06 #24
 Solidity best practices refresh
+## 2026-03-06 #25
+25/50 – Base dev consistency building
