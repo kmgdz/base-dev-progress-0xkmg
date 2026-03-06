@@ -54,3 +54,5 @@ Smart contract security checklist
 Base testnet deployment thoughts
 ## 2026-03-06 #29
 0xKMG Base builder roadmap draft
+## 2026-03-06 #30
+30/50 – halfway to Based Developer role 🟦
