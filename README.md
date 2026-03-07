@@ -108,3 +108,5 @@ Exploring Base API docs
 Decentralized storage on Base thoughts
 ## 2026-03-07 #55
 55/100 – steady onchain builder
+## 2026-03-07 #56
+Alchemy + Base integration notes
