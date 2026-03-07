@@ -67,3 +67,5 @@ Thinking about simple NFT mint on Base
 35/50 – consistent Base builder grind
 ## 2026-03-07 #36
 Hardhat setup for Base testnet
+## 2026-03-07 #37
+Foundry testing ideas for contracts
