@@ -59,4 +59,5 @@ Base testnet deployment thoughts
 ## 2026-03-07 #31
 Base low-fee advantages for dApps
 ## 2026-03-07 #32
-Coinbase Wallet integration notes
+Coinbase Wallet integration notes## 2026-03-07 #33
+Base bridge mechanics overview
