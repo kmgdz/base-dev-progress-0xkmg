@@ -104,4 +104,5 @@ Reflecting on Base L2 advantages
 Base mainnet vs testnet differences
 ## 2026-03-07 #53
 Exploring Base API docs
-
+## 2026-03-07 #54
+Decentralized storage on Base thoughts
