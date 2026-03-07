@@ -65,3 +65,5 @@ Base bridge mechanics overview
 Thinking about simple NFT mint on Base
 ## 2026-03-07 #35
 35/50 – consistent Base builder grind
+## 2026-03-07 #36
+Hardhat setup for Base testnet
