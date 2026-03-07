@@ -58,3 +58,5 @@ Base testnet deployment thoughts
 30/50 – halfway to Based Developer role 🟦
 ## 2026-03-07 #31
 Base low-fee advantages for dApps
+## 2026-03-07 #32
+Coinbase Wallet integration notes
