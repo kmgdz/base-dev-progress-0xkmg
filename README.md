@@ -56,3 +56,5 @@ Base testnet deployment thoughts
 0xKMG Base builder roadmap draft
 ## 2026-03-06 #30
 30/50 – halfway to Based Developer role 🟦
+## 2026-03-07 #31
+Base low-fee advantages for dApps
