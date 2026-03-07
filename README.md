@@ -75,3 +75,5 @@ Base onchain data tools (Dune, etc.)
 ZK proofs potential on Base
 ## 2026-03-07 #40
 40/50 – pushing toward Based Developer 🟦
+## 2026-03-07 #41
+Base mainnet deployment checklist
