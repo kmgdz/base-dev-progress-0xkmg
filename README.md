@@ -73,3 +73,5 @@ Foundry testing ideas for contracts
 Base onchain data tools (Dune, etc.)
 ## 2026-03-07 #39
 ZK proofs potential on Base
+## 2026-03-07 #40
+40/50 – pushing toward Based Developer 🟦
