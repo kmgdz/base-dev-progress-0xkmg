@@ -114,3 +114,5 @@ Alchemy + Base integration notes
 Thinking about DeFi primitives on Base
 ## 2026-03-07 #58
 Base social apps inspiration
+## 2026-03-07 #59
+0xKMG: planning first dApp prototype
