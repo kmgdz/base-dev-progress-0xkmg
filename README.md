@@ -112,3 +112,5 @@ Decentralized storage on Base thoughts
 Alchemy + Base integration notes
 ## 2026-03-07 #57
 Thinking about DeFi primitives on Base
+## 2026-03-07 #58
+Base social apps inspiration
