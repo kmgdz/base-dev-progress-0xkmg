@@ -98,3 +98,5 @@ One more to go – locked in
 0xKMG base.eth progress complete
 ## 2026-03-07 #51
 Bonus: Base builder consistency pays off – ready for more
+## 2026-03-07 #51
+Reflecting on Base L2 advantages
