@@ -71,3 +71,5 @@ Hardhat setup for Base testnet
 Foundry testing ideas for contracts
 ## 2026-03-07 #38
 Base onchain data tools (Dune, etc.)
+## 2026-03-07 #39
+ZK proofs potential on Base
