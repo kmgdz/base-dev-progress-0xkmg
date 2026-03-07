@@ -102,3 +102,6 @@ Bonus: Base builder consistency pays off – ready for more
 Reflecting on Base L2 advantages
 ## 2026-03-07 #52
 Base mainnet vs testnet differences
+## 2026-03-07 #53
+Exploring Base API docs
+
