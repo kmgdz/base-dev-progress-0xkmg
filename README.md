@@ -77,3 +77,5 @@ ZK proofs potential on Base
 40/50 – pushing toward Based Developer 🟦
 ## 2026-03-07 #41
 Base mainnet deployment checklist
+## 2026-03-07 #42
+Exploring Base Name Service (BNS)
