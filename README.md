@@ -110,3 +110,5 @@ Decentralized storage on Base thoughts
 55/100 – steady onchain builder
 ## 2026-03-07 #56
 Alchemy + Base integration notes
+## 2026-03-07 #57
+Thinking about DeFi primitives on Base
