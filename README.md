@@ -116,3 +116,5 @@ Thinking about DeFi primitives on Base
 Base social apps inspiration
 ## 2026-03-07 #59
 0xKMG: planning first dApp prototype
+## 2026-03-07 #60
+60/100 – halfway to 100+ milestone 🟦
