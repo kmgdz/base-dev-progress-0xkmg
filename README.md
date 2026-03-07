@@ -79,3 +79,22 @@ ZK proofs potential on Base
 Base mainnet deployment checklist
 ## 2026-03-07 #42
 Exploring Base Name Service (BNS)
+## 2026-03-07 #43
+Gas optimization tips for Base
+## 2026-03-07 #44
+Smart wallet concepts on Base
+## 2026-03-07 #45
+45/50 – almost at the milestone
+## 2026-03-07 #46
+Base ecosystem projects inspiration
+## 2026-03-07 #47
+Planning first onchain app idea
+## 2026-03-07 #48
+Security mindset for Base devs
+## 2026-03-07 #49
+One more to go – locked in
+## 2026-03-07 #50
+50/50 – Based Developer unlocked on Base Guild 🟦🐐
+0xKMG base.eth progress complete
+## 2026-03-07 #51
+Bonus: Base builder consistency pays off – ready for more
