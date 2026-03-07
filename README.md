@@ -69,3 +69,5 @@ Thinking about simple NFT mint on Base
 Hardhat setup for Base testnet
 ## 2026-03-07 #37
 Foundry testing ideas for contracts
+## 2026-03-07 #38
+Base onchain data tools (Dune, etc.)
