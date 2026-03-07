@@ -61,3 +61,5 @@ Base low-fee advantages for dApps
 ## 2026-03-07 #32
 Coinbase Wallet integration notes## 2026-03-07 #33
 Base bridge mechanics overview
+## 2026-03-07 #34
+Thinking about simple NFT mint on Base
