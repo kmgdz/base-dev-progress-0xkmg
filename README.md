@@ -136,3 +136,5 @@ Security: common reentrancy pitfalls
 0xKMG: Base mini-app ideas list
 ## 2026-03-09 #110
 110 commits – consistent Base builder status 🟦
+## 2026-03-09 #112
+Optimism Superchain & Base integration
