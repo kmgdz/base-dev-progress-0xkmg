@@ -142,3 +142,5 @@ Optimism Superchain & Base integration
 Onchain analytics tools for Base
 ## 2026-03-09 #115
 115+ – momentum building
+## 2026-03-09 #119
+Base dev Discord / community notes
