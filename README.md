@@ -138,3 +138,5 @@ Security: common reentrancy pitfalls
 110 commits – consistent Base builder status 🟦
 ## 2026-03-09 #112
 Optimism Superchain & Base integration
+## 2026-03-09 #114
+Onchain analytics tools for Base
