@@ -122,3 +122,5 @@ Base social apps inspiration
 Bonus: Base low-cost transactions real-world use cases
 ## 2026-03-09 #102
 Coinbase Onchain summer vibes inspiration
+## 2026-03-09 #103
+Base Sepolia faucet & testnet workflow
