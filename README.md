@@ -132,3 +132,5 @@ Thinking about ERC-20 token on Base
 Decentralized frontends (IPFS + Base)
 ## 2026-03-09 #108
 Security: common reentrancy pitfalls
+## 2026-03-09 #109
+0xKMG: Base mini-app ideas list
