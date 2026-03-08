@@ -124,3 +124,5 @@ Bonus: Base low-cost transactions real-world use cases
 Coinbase Onchain summer vibes inspiration
 ## 2026-03-09 #103
 Base Sepolia faucet & testnet workflow
+## 2026-03-09 #104
+Thinking about ERC-20 token on Base
