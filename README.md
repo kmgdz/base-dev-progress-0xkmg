@@ -118,3 +118,5 @@ Base social apps inspiration
 0xKMG: planning first dApp prototype
 ## 2026-03-07 #60
 60/100 – halfway to 100+ milestone 🟦
+## 2026-03-08 #101
+Bonus: Base low-cost transactions real-world use cases
