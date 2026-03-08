@@ -130,3 +130,5 @@ Thinking about ERC-20 token on Base
 105/100+ – over the line, but building more
 ## 2026-03-09 #107
 Decentralized frontends (IPFS + Base)
+## 2026-03-09 #108
+Security: common reentrancy pitfalls
