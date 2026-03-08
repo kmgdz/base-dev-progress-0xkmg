@@ -120,3 +120,5 @@ Base social apps inspiration
 60/100 – halfway to 100+ milestone 🟦
 ## 2026-03-08 #101
 Bonus: Base low-cost transactions real-world use cases
+## 2026-03-09 #102
+Coinbase Onchain summer vibes inspiration
