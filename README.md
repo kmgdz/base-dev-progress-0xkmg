@@ -162,3 +162,5 @@ Wagmi + Base chainId configuration tips
 Account abstraction benefits on low-gas L2 like Base
 ## 2026-03-09
 Base bridge security considerations
+## 2026-03-09
+Decentralized frontend hosting ideas with Base integration
