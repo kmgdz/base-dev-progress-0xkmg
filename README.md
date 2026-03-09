@@ -158,3 +158,5 @@ Onchain randomness sources suitable for Base
 Viem client setup optimizations for Base chain
 ## 2026-03-09
 Wagmi + Base chainId configuration tips
+## 2026-03-09
+Account abstraction benefits on low-gas L2 like Base
