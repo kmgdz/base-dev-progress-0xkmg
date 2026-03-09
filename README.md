@@ -168,3 +168,5 @@ Decentralized frontend hosting ideas with Base integration
 Gas sponsorship mechanics exploration
 ## 2026-03-09
 Base ecosystem project inspirations: social + DeFi hybrids
+## 2026-03-09
+Solidity assembly patterns for gas savings on Base
