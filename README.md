@@ -180,3 +180,5 @@ Foundry for fast testing and deployment on Base – speed king in 2026 workflows
 Hardhat plugins ecosystem still essential for complex EVM debugging on Base L2
 ## 2026-03-09
 Viem client optimizations for Base chainId and RPC handling – clean frontend integration
+## 2026-03-09
+Wagmi hooks with Base support – seamless wallet connections and contract reads/writes
