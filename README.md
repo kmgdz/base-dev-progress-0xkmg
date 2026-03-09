@@ -164,3 +164,5 @@ Account abstraction benefits on low-gas L2 like Base
 Base bridge security considerations
 ## 2026-03-09
 Decentralized frontend hosting ideas with Base integration
+## 2026-03-09
+Gas sponsorship mechanics exploration
