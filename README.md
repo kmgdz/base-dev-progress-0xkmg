@@ -170,3 +170,5 @@ Gas sponsorship mechanics exploration
 Base ecosystem project inspirations: social + DeFi hybrids
 ## 2026-03-09
 Solidity assembly patterns for gas savings on Base
+## 2026-03-09
+Using The Graph for Base subgraph indexing
