@@ -146,3 +146,5 @@ Onchain analytics tools for Base
 Base dev Discord / community notes
 ## 2026-03-09
 Base low fees enabling micro-transactions experiments
+## 2026-03-09
+Coinbase Wallet deep link strategies for dApps
