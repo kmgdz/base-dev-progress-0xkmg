@@ -192,3 +192,5 @@ Exploring x402 payment protocol for agentic payments directly on Base
 Onchain AI agents workflow ideas – using Base for embodied robotics and autonomous ops
 ## 2026-03-09
 Gas sponsorship and low-fee primitives enabling micro dApps on Base
+## 2026-03-09
+Base builder attribution via ERC-8021 codes – tracking contributions in onchain journeys
