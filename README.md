@@ -172,3 +172,5 @@ Base ecosystem project inspirations: social + DeFi hybrids
 Solidity assembly patterns for gas savings on Base
 ## 2026-03-09
 Using The Graph for Base subgraph indexing
+## 2026-03-09
+IPFS + Base for persistent onchain-linked data
