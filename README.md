@@ -174,3 +174,5 @@ Solidity assembly patterns for gas savings on Base
 Using The Graph for Base subgraph indexing
 ## 2026-03-09
 IPFS + Base for persistent onchain-linked data
+## 2026-03-09
+Foundry for fast testing and deployment on Base – speed king in 2026 workflows
