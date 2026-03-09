@@ -166,3 +166,5 @@ Base bridge security considerations
 Decentralized frontend hosting ideas with Base integration
 ## 2026-03-09
 Gas sponsorship mechanics exploration
+## 2026-03-09
+Base ecosystem project inspirations: social + DeFi hybrids
