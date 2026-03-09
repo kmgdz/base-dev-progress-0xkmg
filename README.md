@@ -160,3 +160,5 @@ Viem client setup optimizations for Base chain
 Wagmi + Base chainId configuration tips
 ## 2026-03-09
 Account abstraction benefits on low-gas L2 like Base
+## 2026-03-09
+Base bridge security considerations
