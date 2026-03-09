@@ -190,3 +190,5 @@ Base Sepolia testnet best practices – faucet flows and multi-chain testing set
 Exploring x402 payment protocol for agentic payments directly on Base
 ## 2026-03-09
 Onchain AI agents workflow ideas – using Base for embodied robotics and autonomous ops
+## 2026-03-09
+Gas sponsorship and low-fee primitives enabling micro dApps on Base
