@@ -150,3 +150,5 @@ Base low fees enabling micro-transactions experiments
 Coinbase Wallet deep link strategies for dApps
 ## 2026-03-09
 Base testnet vs mainnet deployment differences noted
+## 2026-03-09
+Exploring ERC-721 extensions for Base NFTs
