@@ -178,3 +178,5 @@ IPFS + Base for persistent onchain-linked data
 Foundry for fast testing and deployment on Base – speed king in 2026 workflows
 ## 2026-03-09
 Hardhat plugins ecosystem still essential for complex EVM debugging on Base L2
+## 2026-03-09
+Viem client optimizations for Base chainId and RPC handling – clean frontend integration
