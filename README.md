@@ -176,3 +176,5 @@ Using The Graph for Base subgraph indexing
 IPFS + Base for persistent onchain-linked data
 ## 2026-03-09
 Foundry for fast testing and deployment on Base – speed king in 2026 workflows
+## 2026-03-09
+Hardhat plugins ecosystem still essential for complex EVM debugging on Base L2
