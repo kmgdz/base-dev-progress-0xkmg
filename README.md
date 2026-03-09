@@ -156,3 +156,5 @@ Exploring ERC-721 extensions for Base NFTs
 Onchain randomness sources suitable for Base
 ## 2026-03-09
 Viem client setup optimizations for Base chain
+## 2026-03-09
+Wagmi + Base chainId configuration tips
