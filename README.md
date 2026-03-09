@@ -186,3 +186,5 @@ Wagmi hooks with Base support – seamless wallet connections and contract reads
 Account abstraction on Base: ERC-4337 benefits for gasless UX and smart wallets
 ## 2026-03-09
 Base Sepolia testnet best practices – faucet flows and multi-chain testing setups
+## 2026-03-09
+Exploring x402 payment protocol for agentic payments directly on Base
