@@ -148,3 +148,5 @@ Base dev Discord / community notes
 Base low fees enabling micro-transactions experiments
 ## 2026-03-09
 Coinbase Wallet deep link strategies for dApps
+## 2026-03-09
+Base testnet vs mainnet deployment differences noted
