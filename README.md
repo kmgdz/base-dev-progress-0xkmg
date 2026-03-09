@@ -184,3 +184,5 @@ Viem client optimizations for Base chainId and RPC handling – clean frontend i
 Wagmi hooks with Base support – seamless wallet connections and contract reads/writes
 ## 2026-03-09
 Account abstraction on Base: ERC-4337 benefits for gasless UX and smart wallets
+## 2026-03-09
+Base Sepolia testnet best practices – faucet flows and multi-chain testing setups
