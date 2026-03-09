@@ -152,3 +152,5 @@ Coinbase Wallet deep link strategies for dApps
 Base testnet vs mainnet deployment differences noted
 ## 2026-03-09
 Exploring ERC-721 extensions for Base NFTs
+## 2026-03-09
+Onchain randomness sources suitable for Base
